@@ -34,14 +34,17 @@ function showLinks() {
 function toggleAll() {
  var checked = document.getElementById('toggle_all').checked;
   for (var i = 0; i < visibleLinks.length; ++i) {
-    document.getElementById('check' + i).checked = checked;
+    if (document.getElementById('check' + i))
+    {
+    	document.getElementById('check' + i).checked = checked;
+    }
   }
 }
 
 // Download all visible checked links.
 function downloadCheckedLinks() {
   for (var i = 0; i < visibleLinks.length; ++i) {
-    if (document.getElementById('check' + i).checked) {
+    if ((document.getElementById('check' + i)) && (document.getElementById('check' + i).checked)) {
       chrome.downloads.download({url: visibleLinks[i]},
                                              function(id) {
       });
