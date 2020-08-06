@@ -1,0 +1,14 @@
+{
+  "manifest_version": 2,
+  "name": "Piazza Resources Downloader",
+  "version": "1.0",
+  "description": "A chrome extension to easily select and download files from Piazza Resources page.",
+  
+  "browser_action": {
+    "default_icon": "images/download_symbol.png",
+    "default_popup": "html/popup.html",
+	"default_title": "Piazza Files Downloader"
+ 	},
+ 
+  "permissions": ["downloads",  "*://piazza.com/*"]
+}
