@@ -11,13 +11,13 @@ A chrome extension to easily select and download files from Piazza Resources pag
 
 <h1>Without Piazza extension:</h1>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/flora15/Piazza-Resources-Downloader/master/screen%20recordings/manual_download.gif" width="500" title="manual download">
+  <img src="https://raw.githubusercontent.com/flora15/Piazza-Resources-Downloader/master/screen%20recordings/manual_download.gif" width="700" title="manual download">
 </p>
 
 
 <h1>With Piazza extension:</h1>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/flora15/Piazza-Resources-Downloader/master/screen%20recordings/download_with_extension.gif" width="500" title="download with extension">
+  <img src="https://raw.githubusercontent.com/flora15/Piazza-Resources-Downloader/master/screen%20recordings/download_with_extension.gif" width="700" title="download with extension">
 </p>
 
 <hr>
