@@ -5,8 +5,9 @@
 
 <center><b>Piazza Resources Downloader
 
-A chrome extension to easily select and download files from Piazza Resources page</b></center> 
+A chrome extension to easily select and download files from Piazza Resources page 
 
+Piazza Resources Downloader will detect and list all the downloadable content on the Piazza Resources page</b></center> 
 <hr>
 
 <h1>Without Piazza extension:</h1>
