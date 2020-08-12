@@ -10,7 +10,7 @@ A chrome extension to easily select and download files from Piazza Resources pag
 Piazza Resources Downloader will detect and list all the downloadable content on the Piazza Resources page</b></center> 
 <hr>
 
-<h1>Download this extension from <a href="https://chrome.google.com/webstore/detail/piazza-resources-download/akdmggmbcnkgpnedjeebihocdgnlddgb">Chrome Web Store</a></h1>
+<b>Download this extension from <a href="https://chrome.google.com/webstore/detail/piazza-resources-download/akdmggmbcnkgpnedjeebihocdgnlddgb">Chrome Web Store</a></b>
 
 <h1>Without Piazza extension:</h1>
 <p align="center">
