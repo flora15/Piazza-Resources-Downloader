@@ -11,6 +11,7 @@ Piazza Resources Downloader will detect and list all the downloadable content on
 <hr>
 
 <b>Download this extension from <a href="https://chrome.google.com/webstore/detail/piazza-resources-download/akdmggmbcnkgpnedjeebihocdgnlddgb">Chrome Web Store</a></b>
+<hr>
 
 <h1>Without Piazza extension:</h1>
 <p align="center">
